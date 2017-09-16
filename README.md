@@ -1,5 +1,8 @@
 # Custom Adapter App with circular ImageView library.
 
+More information:</br>
+http://sundaydevblog.com/blog/post/example-of-an-android-listview-with-custom-adapter
+
 # License
 Copyright 2017 Piotr Przechodzki
 
