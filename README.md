@@ -2,9 +2,6 @@
 
 This is a demo app that presents how to create and use custom ArrayAdapter to populate a list of items in Android and how to implement external library using Gradle tool.
 
-For more information check my blog post:
-
-http://sundaydevblog.com/blog/post/android-listview-with-custom-adapter-example
 
 ![Sample screen](https://github.com/Pio-Trek/ContactBook/blob/master/art/app01.png)
 
